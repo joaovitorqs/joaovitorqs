@@ -10,11 +10,11 @@ Tenho experiência academica com desenvolvimento web utilizando Java, Spring Boo
 ### [getService](https://getservice.onrender.com)
 Sistema web para solicitação e prestação de serviços terceirizados.
 
-🔹 CRUD completo
-🔹 API REST com Spring Boot
-🔹 Persistência com banco de dados
-🔹 Interface Web integrada
-🔹 Deploy em produção
+🔹CRUD completo
+🔹API REST com Spring Boot
+🔹Persistência com banco de dados
+🔹Interface Web integrada
+🔹Deploy em produção
 
 [Repositorio getService](https://github.com/joaovitorqs/getService)
 
