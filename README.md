@@ -28,11 +28,11 @@ Web system for requesting and providing outsourced services.
 
 Sistema web para solicitação e prestação de serviços terceirizados.
 
-🔹CRUD completo
-🔹API REST com Spring Boot
-🔹Persistência com banco de dados
-🔹Interface Web integrada
-🔹Deploy em produção
+🔹CRUD completo  
+🔹API REST com Spring Boot  
+🔹Persistência com banco de dados  
+🔹Interface Web integrada  
+🔹Deploy em produção  
 
 [Repository getService](https://github.com/joaovitorqs/getService)
 
