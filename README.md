@@ -6,7 +6,7 @@ Hello! My name is João Vitor, I am a Software Engineering student at UNIFAN and
 
 I have academic experience in web development using Java, Spring Boot, REST APIs, databases, and front-end/back-end integration.
 
-<img width="35px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
+<img width="25px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
 />
 
 Olá! Me chamo João Vitor, sou estudante de Engenharia de Software pela UNIFAN e desenvolvedor com foco em Back-End Java.
@@ -23,7 +23,7 @@ Web system for requesting and providing outsourced services.
 🔹Integrated Web Interface  
 🔹Production deployment
 
-<img width="35px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
+<img width="25px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
 />
 
 Sistema web para solicitação e prestação de serviços terceirizados.
