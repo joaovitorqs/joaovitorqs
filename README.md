@@ -25,6 +25,7 @@ Web system for requesting and providing outsourced services.
 
 <img width="35px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
 />
+
 Sistema web para solicitação e prestação de serviços terceirizados.
 
 🔹CRUD completo
