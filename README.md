@@ -1,16 +1,32 @@
-## Hi there 👋
+# ​👨🏻‍💻​ João Vitor Q. Santos
 
-<!--
-**joaovitorqs/joaovitorqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Java Back-End Developer | Spring Boot`**
 
-Here are some ideas to get you started:
+Olá! Me chamo João Vitor, sou estudante de Engenharia de Software pela UNIFAN e desenvolvedor com foco em Back-End Java.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência academica com desenvolvimento web utilizando Java, Spring Boot, APIs REST, banco de dados e integração entre front-end e back-end.
+
+## 🌐 Sistemas em deploy
+### [getService](https://getservice.onrender.com)
+Sistema web para solicitação e prestação de serviços terceirizados.
+
+🔹 CRUD completo
+🔹 API REST com Spring Boot
+🔹 Persistência com banco de dados
+🔹 Interface Web integrada
+🔹 Deploy em produção
+
+[Repositorio getService](https://github.com/joaovitorqs/getService)
+
+### 🖥️ Linguagens e Tecnologias
+
+<div style="display: flex; align-items: center; flex-wrap: wrap;">
+  
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" title="Java" />
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title="Spring" />
+  <img width="45px" style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" />
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" />
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostGreSQL" />
+  <img width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" />
