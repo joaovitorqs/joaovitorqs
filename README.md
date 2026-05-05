@@ -36,7 +36,7 @@ Sistema web para solicitação e prestação de serviços terceirizados.
 
 [Repository getService](https://github.com/joaovitorqs/getService)
 
-### 🖥️ Languages and Technologies
+## 🖥️ Languages and Technologies
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   
