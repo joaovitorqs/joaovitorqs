@@ -13,52 +13,54 @@ Olá! Me chamo João Vitor, sou estudante de Engenharia de Software pela UNIFAN 
 
 Tenho experiência academica com desenvolvimento web utilizando Java, Spring Boot, APIs REST, banco de dados e integração entre front-end e back-end.
 
+## 🖥️ [Meu Portfólio](https://joaovitorqs-portfolio.vercel.app/)
+
 ## 🌐 Projects in Production
 ### [Rescue Gatitos](https://rescue-gatitos.vercel.app)
 Project focused on back-end authentication, with JWT security and a full production deployment pipeline built from scratch.
 
-🔹JWT authentication with Spring Security  
-🔹REST API with Spring Boot  
-🔹PostgreSQL database (Neon)  
-🔹Dockerized back-end deployed on a self-managed VPS (Nginx reverse proxy + SSL)  
-🔹Interactive front-end game built on top of the auth flow
+◽JWT authentication with Spring Security  
+◽REST API with Spring Boot  
+◽PostgreSQL database (Neon)  
+◽Dockerized back-end deployed on a self-managed VPS (Nginx reverse proxy + SSL)  
+◽Interactive front-end game built on top of the auth flow
 
 <img width="25px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
 />
 
 Projeto focado em autenticação back-end, com segurança via JWT e um pipeline completo de deploy em produção construído do zero.
 
-🔹Autenticação JWT com Spring Security  
-🔹API REST com Spring Boot  
-🔹Banco de dados PostgreSQL (Neon)  
-🔹Back-end containerizado com Docker, hospedado em VPS própria (reverse proxy Nginx + SSL)  
-🔹Front-end interativo com um mini-jogo construído sobre o fluxo de autenticação
+◽Autenticação JWT com Spring Security  
+◽API REST com Spring Boot  
+◽Banco de dados PostgreSQL (Neon)  
+◽Back-end containerizado com Docker, hospedado em VPS própria (reverse proxy Nginx + SSL)  
+◽Front-end interativo com um mini-jogo construído sobre o fluxo de autenticação
 
 [Repository Backend](https://github.com/joaovitorqs/rescue-gatitos-to-work) | [Repository Frontend](https://github.com/joaovitorqs/gatitos-front)
 
 ### [getService](https://getservice.onrender.com)
 Web system for requesting and providing outsourced services.
 
-🔹Complete CRUD  
-🔹REST API with Spring Boot  
-🔹Database persistence  
-🔹Integrated Web Interface  
-🔹Production deployment
+◽Complete CRUD  
+◽REST API with Spring Boot  
+◽Database persistence  
+◽Integrated Web Interface  
+◽Production deployment
 
 <img width="25px" style="padding-right: 10px;" src="https://icons.iconarchive.com/icons/marcus-roberto/google-play/256/Google-Translate-icon.png"
 />
 
 Sistema web para solicitação e prestação de serviços terceirizados.
 
-🔹CRUD completo  
-🔹API REST com Spring Boot  
-🔹Persistência com banco de dados  
-🔹Interface Web integrada  
-🔹Deploy em produção  
+◽CRUD completo  
+◽API REST com Spring Boot  
+◽Persistência com banco de dados  
+◽Interface Web integrada  
+◽Deploy em produção  
 
 [Repository getService](https://github.com/joaovitorqs/getService)
 
-## 🖥️ Languages and Technologies
+## ⚙️ Languages and Technologies
 
 <div style="display: flex; align-items: center; flex-wrap: wrap;">
   
